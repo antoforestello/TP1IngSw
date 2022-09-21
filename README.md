@@ -9,3 +9,7 @@ TP1 de ingenieria de software - UTN FRSF
 <li>Forestello, Antonella</li>
 <li>Peiretti, Tomas</li>
 </ul>
+
+Respuesta al item 3.b:
+En la configuracion del repositorio, en el apartado branches se pueden agregar diferentes reglas que deben cumplir aquellos que quieren realizar un pull request.
+
